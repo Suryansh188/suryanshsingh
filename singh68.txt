@@ -1,6 +1,14 @@
 fadsfadfdas
+<<<<<<< HEAD
 
+=======
+>>>>>>> main
 suryansh singh
 
 
 
+<<<<<<< HEAD
+=======
+
+lucknow
+>>>>>>> main
